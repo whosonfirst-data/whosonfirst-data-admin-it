@@ -11,8 +11,8 @@
     "geom:longitude":14.235417,
     "gn:id":"",
     "iso:country":"IT",
-    "lbl:latitude":40.83577,
-    "lbl:longitude":14.240841,
+    "lbl:latitude":40.83681,
+    "lbl:longitude":14.235356,
     "lbl:max_zoom":18.0,
     "mps:latitude":40.83681,
     "mps:longitude":14.235356,
@@ -96,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl_centroid":"mz",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":248,
     "wof:belongsto":[
         102191581,
@@ -132,7 +132,7 @@
     "wof:lang":[
         "ita"
     ],
-    "wof:lastmodified":1690934663,
+    "wof:lastmodified":1694320497,
     "wof:name":"Chiaia",
     "wof:parent_id":101752555,
     "wof:placetype":"neighbourhood",

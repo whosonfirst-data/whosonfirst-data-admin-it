@@ -13,8 +13,8 @@
     "gn:latitude":43.81667,
     "gn:longitude":11.23333,
     "iso:country":"IT",
-    "lbl:latitude":43.819287,
-    "lbl:longitude":11.223896,
+    "lbl:latitude":43.810788,
+    "lbl:longitude":11.249235,
     "lbl:max_zoom":18.0,
     "mps:latitude":43.810788,
     "mps:longitude":11.249235,
@@ -102,7 +102,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl_centroid":"mz",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":93,
     "wof:belongsto":[
         102191581,
@@ -142,7 +142,7 @@
     "wof:lang":[
         "ita"
     ],
-    "wof:lastmodified":1642551828,
+    "wof:lastmodified":1694320497,
     "wof:name":"Castello",
     "wof:parent_id":101752643,
     "wof:placetype":"neighbourhood",

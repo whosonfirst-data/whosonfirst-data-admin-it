@@ -12,8 +12,8 @@
     "gn:latitude":40.9,
     "gn:longitude":14.23333,
     "iso:country":"IT",
-    "lbl:latitude":40.889735,
-    "lbl:longitude":14.229352,
+    "lbl:latitude":40.901469,
+    "lbl:longitude":14.23887,
     "lbl:max_zoom":18.0,
     "mps:latitude":40.901469,
     "mps:longitude":14.23887,
@@ -61,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl_centroid":"mz",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":548,
     "wof:belongsto":[
         102191581,
@@ -99,7 +99,7 @@
     "wof:lang":[
         "ita"
     ],
-    "wof:lastmodified":1690934671,
+    "wof:lastmodified":1694320497,
     "wof:name":"Piscinola",
     "wof:parent_id":101752555,
     "wof:placetype":"neighbourhood",
