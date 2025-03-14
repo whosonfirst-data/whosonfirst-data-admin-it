@@ -6,16 +6,16 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"10.81667,46.23333,10.81667,46.23333",
-    "geom:latitude":46.23333,
-    "geom:longitude":10.81667,
+    "geom:bbox":"10.82867,46.22764,10.82867,46.22764",
+    "geom:latitude":46.22764,
+    "geom:longitude":10.82867,
     "gn:country":"IT",
     "gn:fcode":"PPL",
     "gn:population":700,
     "iso:country":"IT",
     "lbl:bbox":"10.79667,46.21333,10.83667,46.25333",
-    "lbl:latitude":46.23333,
-    "lbl:longitude":10.81667,
+    "lbl:latitude":46.22764,
+    "lbl:longitude":10.82867,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
@@ -167,10 +167,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    10.81667,
-    46.23333,
-    10.81667,
-    46.23333
+    10.82867,
+    46.22764,
+    10.82867,
+    46.22764
 ],
-  "geometry": {"coordinates":[10.81667,46.23333],"type":"Point"}
+  "geometry": {"coordinates":[10.82867,46.22764],"type":"Point"}
 }
