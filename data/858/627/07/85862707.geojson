@@ -11,8 +11,8 @@
     "geom:longitude":9.149336,
     "gn:id":"",
     "iso:country":"IT",
-    "lbl:latitude":45.528098,
-    "lbl:longitude":9.162626,
+    "lbl:latitude":45.526555,
+    "lbl:longitude":9.152002,
     "lbl:max_zoom":18.0,
     "mps:latitude":45.526555,
     "mps:longitude":9.152002,
@@ -75,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl_centroid":"mz",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         404468471,
@@ -110,7 +110,7 @@
     "wof:lang":[
         "ita"
     ],
-    "wof:lastmodified":1690934747,
+    "wof:lastmodified":1694320497,
     "wof:name":"Comasina",
     "wof:parent_id":101757109,
     "wof:placetype":"neighbourhood",

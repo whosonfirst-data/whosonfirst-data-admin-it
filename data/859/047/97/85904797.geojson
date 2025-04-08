@@ -11,8 +11,8 @@
     "geom:longitude":14.246395,
     "gn:id":"",
     "iso:country":"IT",
-    "lbl:latitude":40.873045,
-    "lbl:longitude":14.258097,
+    "lbl:latitude":40.878218,
+    "lbl:longitude":14.243155,
     "lbl:max_zoom":18.0,
     "mps:latitude":40.878218,
     "mps:longitude":14.243155,
@@ -85,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl_centroid":"mz",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191581,
         404465097,
@@ -120,7 +120,7 @@
     "wof:lang":[
         "ita"
     ],
-    "wof:lastmodified":1690934664,
+    "wof:lastmodified":1694320497,
     "wof:name":"San Carlo all'Arena",
     "wof:parent_id":101752555,
     "wof:placetype":"neighbourhood",

@@ -12,8 +12,8 @@
     "gn:elevation":56,
     "gn:population":45463,
     "iso:country":"IT",
-    "lbl:latitude":40.812764,
-    "lbl:longitude":14.345061,
+    "lbl:latitude":40.833026,
+    "lbl:longitude":14.338359,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
     "mps:latitude":40.833026,
@@ -229,7 +229,7 @@
     "qs:type":"urban core",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         85685487,
@@ -263,7 +263,7 @@
     "wof:lang":[
         "ita"
     ],
-    "wof:lastmodified":1690934834,
+    "wof:lastmodified":1694320497,
     "wof:name":"San Giorgio a Cremano",
     "wof:parent_id":404465137,
     "wof:placetype":"locality",

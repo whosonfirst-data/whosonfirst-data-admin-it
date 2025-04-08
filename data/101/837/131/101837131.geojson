@@ -12,8 +12,8 @@
     "gn:elevation":47,
     "gn:population":44951,
     "iso:country":"IT",
-    "lbl:latitude":43.733398,
-    "lbl:longitude":11.159363,
+    "lbl:latitude":43.754266,
+    "lbl:longitude":11.185115,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
     "mps:latitude":43.754266,
@@ -230,7 +230,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":215,
     "wof:belongsto":[
@@ -264,7 +264,7 @@
     "wof:lang":[
         "ita"
     ],
-    "wof:lastmodified":1690936598,
+    "wof:lastmodified":1694320497,
     "wof:name":"Scandicci",
     "wof:parent_id":404472819,
     "wof:placetype":"locality",
