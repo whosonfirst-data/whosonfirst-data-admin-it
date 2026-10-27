@@ -41,62 +41,17 @@
     "name:afr_x_preferred":[
         "Opera"
     ],
-    "name:als_x_preferred":[
-        "Oper"
-    ],
-    "name:ang_x_preferred":[
-        "Gl\u012bwpleg"
-    ],
-    "name:ara_x_preferred":[
-        "\u0623\u0648\u0628\u0631\u0627"
-    ],
     "name:arg_x_preferred":[
         "Opera"
-    ],
-    "name:ast_x_preferred":[
-        "\u00d3pera"
-    ],
-    "name:azb_x_preferred":[
-        "\u0627\u0648\u067e\u0631\u0627"
     ],
     "name:aze_x_preferred":[
         "Opera"
     ],
-    "name:bak_x_preferred":[
-        "\u041e\u043f\u0435\u0440\u0430"
-    ],
-    "name:bar_x_preferred":[
-        "Oper"
-    ],
-    "name:bel_x_preferred":[
-        "\u041e\u043f\u0435\u0440\u0430"
-    ],
-    "name:ben_x_preferred":[
-        "\u0997\u09c0\u09a4\u09bf\u09a8\u09be\u099f\u09cd\u09af"
-    ],
     "name:bos_x_preferred":[
         "Opera"
     ],
-    "name:bre_x_preferred":[
-        "C'hoarigan"
-    ],
-    "name:bul_x_preferred":[
-        "\u041e\u043f\u0435\u0440\u0430"
-    ],
-    "name:bxr_x_preferred":[
-        "\u0414\u0443\u0443\u0440\u0438"
-    ],
-    "name:cat_x_preferred":[
-        "\u00d2pera"
-    ],
     "name:ces_x_preferred":[
         "Opera"
-    ],
-    "name:chv_x_preferred":[
-        "\u041e\u043f\u0435\u0440\u0430"
-    ],
-    "name:ckb_x_preferred":[
-        "\u0626\u06c6\u067e\u06ce\u0631\u0627"
     ],
     "name:cym_x_preferred":[
         "Opera"
@@ -104,56 +59,17 @@
     "name:dan_x_preferred":[
         "Opera"
     ],
-    "name:deu_x_preferred":[
-        "Oper"
-    ],
     "name:diq_x_preferred":[
         "Opera"
-    ],
-    "name:ell_x_preferred":[
-        "\u038c\u03c0\u03b5\u03c1\u03b1"
-    ],
-    "name:epo_x_preferred":[
-        "Opero"
-    ],
-    "name:est_x_preferred":[
-        "Ooper"
     ],
     "name:eus_x_preferred":[
         "Opera"
     ],
-    "name:fas_x_preferred":[
-        "\u0627\u067e\u0631\u0627"
-    ],
-    "name:fin_x_preferred":[
-        "Ooppera"
-    ],
-    "name:fra_x_preferred":[
-        "Op\u00e9ra"
-    ],
     "name:fry_x_preferred":[
         "Opera"
     ],
-    "name:gla_x_preferred":[
-        "Opra"
-    ],
-    "name:gle_x_preferred":[
-        "Ceoldr\u00e1ma"
-    ],
-    "name:glg_x_preferred":[
-        "\u00d3pera"
-    ],
-    "name:glv_x_preferred":[
-        "Kiaulldramey"
-    ],
-    "name:heb_x_preferred":[
-        "\u05d0\u05d5\u05e4\u05e8\u05d4"
-    ],
     "name:hif_x_preferred":[
         "Opera"
-    ],
-    "name:hin_x_preferred":[
-        "\u0913\u092a\u0947\u0930\u093e"
     ],
     "name:hrv_x_preferred":[
         "Opera"
@@ -161,56 +77,20 @@
     "name:hun_x_preferred":[
         "Opera"
     ],
-    "name:hye_x_preferred":[
-        "\u0555\u057a\u0565\u0580\u0561"
-    ],
-    "name:ido_x_preferred":[
-        "Opero"
-    ],
     "name:ilo_x_preferred":[
         "Opera"
     ],
     "name:ind_x_preferred":[
         "Opera"
     ],
-    "name:isl_x_preferred":[
-        "\u00d3pera"
-    ],
-    "name:ita_x_preferred":[
-        "Comune di Opera"
-    ],
     "name:ita_x_variant":[
         "Opera"
-    ],
-    "name:jam_x_preferred":[
-        "Apra"
     ],
     "name:jav_x_preferred":[
         "Opera"
     ],
-    "name:jpn_x_preferred":[
-        "\u30aa\u30fc\u30da\u30e9"
-    ],
-    "name:jpn_x_variant":[
-        "\u30aa\u30da\u30e9"
-    ],
-    "name:kan_x_preferred":[
-        "\u0c92\u0caa\u0cc7\u0cb0"
-    ],
-    "name:kat_x_preferred":[
-        "\u10dd\u10de\u10d4\u10e0\u10d0"
-    ],
-    "name:kaz_x_preferred":[
-        "\u041e\u043f\u0435\u0440\u0430"
-    ],
     "name:kbp_x_preferred":[
         "Opera"
-    ],
-    "name:kir_x_preferred":[
-        "\u041e\u043f\u0435\u0440\u0430"
-    ],
-    "name:kor_x_preferred":[
-        "\uc624\ud398\ub77c"
     ],
     "name:lav_x_preferred":[
         "Opera"
@@ -221,38 +101,11 @@
     "name:lit_x_preferred":[
         "Opera"
     ],
-    "name:lmo_x_preferred":[
-        "\u00d2vera"
-    ],
-    "name:ltz_x_preferred":[
-        "Oper"
-    ],
-    "name:mal_x_preferred":[
-        "\u0d13\u0d2a\u0d4d\u0d2a\u0d31"
-    ],
-    "name:mar_x_preferred":[
-        "\u0911\u092a\u0947\u0930\u093e"
-    ],
-    "name:mhr_x_preferred":[
-        "\u041e\u043f\u0435\u0440\u0430"
-    ],
-    "name:mkd_x_preferred":[
-        "\u041e\u043f\u0435\u0440\u0430"
-    ],
-    "name:mon_x_preferred":[
-        "\u0414\u0443\u0443\u0440\u044c"
-    ],
     "name:msa_x_preferred":[
         "Opera"
     ],
-    "name:mya_x_preferred":[
-        "\u1021\u1031\u102c\u103a\u1015\u101b\u102c\u1007\u102c\u1010\u103a\u1015\u103d\u1032"
-    ],
     "name:nah_x_preferred":[
         "Opera"
-    ],
-    "name:new_x_preferred":[
-        "\u0913\u092a\u0947\u0930\u093e"
     ],
     "name:nld_x_preferred":[
         "Opera"
@@ -263,50 +116,11 @@
     "name:nor_x_preferred":[
         "Opera"
     ],
-    "name:oci_x_preferred":[
-        "Op\u00e8ra"
-    ],
-    "name:olo_x_preferred":[
-        "Ouperu"
-    ],
-    "name:pan_x_preferred":[
-        "\u0a13\u0a2a\u0a47\u0a30\u0a3e"
-    ],
-    "name:pcd_x_preferred":[
-        "Op\u00e9ra"
-    ],
-    "name:pnb_x_preferred":[
-        "\u0627\u0648\u067e\u06cc\u0631\u0627"
-    ],
     "name:pol_x_preferred":[
         "Opera"
     ],
-    "name:por_x_preferred":[
-        "\u00d3pera"
-    ],
-    "name:pus_x_preferred":[
-        "\u0627\u0648\u067e\u0631\u0627"
-    ],
-    "name:que_x_preferred":[
-        "Taki aranway"
-    ],
-    "name:ron_x_preferred":[
-        "Oper\u0103"
-    ],
-    "name:rue_x_preferred":[
-        "\u041e\u043f\u0435\u0440\u0430"
-    ],
-    "name:rus_x_preferred":[
-        "\u041e\u043f\u0435\u0440\u0430"
-    ],
-    "name:scn_x_preferred":[
-        "Cantanti l\u00ecrici"
-    ],
     "name:sco_x_preferred":[
         "Opera"
-    ],
-    "name:sin_x_preferred":[
-        "\u0d94\u0db4\u0dd9\u0dbb\u0dcf"
     ],
     "name:slk_x_preferred":[
         "Opera"
@@ -314,17 +128,8 @@
     "name:slv_x_preferred":[
         "Opera"
     ],
-    "name:spa_x_preferred":[
-        "\u00d3pera"
-    ],
     "name:sqi_x_preferred":[
         "Opera"
-    ],
-    "name:srp_x_preferred":[
-        "\u041e\u043f\u0435\u0440\u0430"
-    ],
-    "name:stq_x_preferred":[
-        "Oper"
     ],
     "name:sun_x_preferred":[
         "Opera"
@@ -335,56 +140,20 @@
     "name:swe_x_preferred":[
         "Opera"
     ],
-    "name:szl_x_preferred":[
-        "Uopera"
-    ],
-    "name:tam_x_preferred":[
-        "\u0b86\u0baa\u0bcd\u0baa\u0bc6\u0bb0\u0bbe"
-    ],
-    "name:tat_x_preferred":[
-        "\u041e\u043f\u0435\u0440\u0430"
-    ],
-    "name:tgk_x_preferred":[
-        "\u041e\u043f\u0435\u0440\u0430"
-    ],
     "name:tgl_x_preferred":[
         "Opera"
-    ],
-    "name:tha_x_preferred":[
-        "\u0e2d\u0e38\u0e1b\u0e23\u0e32\u0e01\u0e23"
     ],
     "name:tur_x_preferred":[
         "Opera"
     ],
-    "name:ukr_x_preferred":[
-        "\u041e\u043f\u0435\u0440\u0430"
-    ],
-    "name:urd_x_preferred":[
-        "\u0627\u0648\u067e\u0631\u0627"
-    ],
     "name:uzb_x_preferred":[
         "Opera"
-    ],
-    "name:vep_x_preferred":[
-        "Oper"
     ],
     "name:vie_x_preferred":[
         "Opera"
     ],
-    "name:vol_x_preferred":[
-        "Lop"
-    ],
     "name:war_x_preferred":[
         "Opera"
-    ],
-    "name:wln_x_preferred":[
-        "Oper\u00e5"
-    ],
-    "name:yid_x_preferred":[
-        "\u05d0\u05e4\u05e2\u05e8\u05e2"
-    ],
-    "name:zho_x_preferred":[
-        "\u5965\u4f69\u62c9"
     ],
     "qs:a0":"Italy",
     "qs:a1":"MILANO",

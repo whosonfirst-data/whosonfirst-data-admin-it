@@ -23,35 +23,11 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
-    "name:afr_x_preferred":[
-        "Latium"
-    ],
-    "name:als_x_preferred":[
-        "Latium"
-    ],
-    "name:amh_x_preferred":[
-        "\u120b\u133a\u12ee"
-    ],
-    "name:ara_x_preferred":[
-        "\u0644\u0627\u062a\u0633\u064a\u0648"
-    ],
     "name:arg_x_preferred":[
         "Lazio"
     ],
-    "name:ast_x_preferred":[
-        "Llaciu"
-    ],
-    "name:azb_x_preferred":[
-        "\u0644\u0627\u062a\u0632\u06cc\u0648"
-    ],
-    "name:aze_x_preferred":[
-        "Latsio"
-    ],
     "name:bcl_x_preferred":[
         "Lazio"
-    ],
-    "name:bel_x_preferred":[
-        "\u041b\u0430\u0446\u044b\u0430"
     ],
     "name:bos_x_preferred":[
         "Lazio"
@@ -59,32 +35,14 @@
     "name:bre_x_preferred":[
         "Lazio"
     ],
-    "name:bul_x_preferred":[
-        "\u041b\u0430\u0446\u0438\u043e"
-    ],
-    "name:cat_x_preferred":[
-        "Laci"
-    ],
     "name:cdo_x_preferred":[
         "Lazio"
-    ],
-    "name:ceb_x_preferred":[
-        "Lacio"
     ],
     "name:ces_x_preferred":[
         "Lazio"
     ],
-    "name:che_x_preferred":[
-        "\u041b\u0430\u0446\u0438\u043e"
-    ],
-    "name:chv_x_preferred":[
-        "\u041b\u0430\u0446\u0438\u043e"
-    ],
     "name:cor_x_preferred":[
         "Lazio"
-    ],
-    "name:cos_x_preferred":[
-        "Laziu"
     ],
     "name:cym_x_preferred":[
         "Lazio"
@@ -92,44 +50,14 @@
     "name:dan_x_preferred":[
         "Lazio"
     ],
-    "name:deu_x_preferred":[
-        "Latium"
-    ],
-    "name:ell_x_preferred":[
-        "\u039b\u03ac\u03c4\u03b9\u03bf"
-    ],
-    "name:eml_x_preferred":[
-        "L\u00e2zi"
-    ],
-    "name:epo_x_preferred":[
-        "Latio"
-    ],
     "name:est_x_preferred":[
         "Lazio"
     ],
     "name:eus_x_preferred":[
         "Lazio"
     ],
-    "name:fas_x_preferred":[
-        "\u0644\u0627\u062a\u0632\u06cc\u0648"
-    ],
     "name:fin_x_preferred":[
         "Lazio"
-    ],
-    "name:fra_x_preferred":[
-        "Latium"
-    ],
-    "name:frp_x_preferred":[
-        "Lacion"
-    ],
-    "name:frr_x_preferred":[
-        "Latium"
-    ],
-    "name:fry_x_preferred":[
-        "Latium"
-    ],
-    "name:fur_x_preferred":[
-        "Lazi"
     ],
     "name:gla_x_preferred":[
         "Lazio"
@@ -137,104 +65,29 @@
     "name:gle_x_preferred":[
         "Lazio"
     ],
-    "name:glg_x_preferred":[
-        "Lacio"
-    ],
     "name:hak_x_preferred":[
         "Lazio"
-    ],
-    "name:heb_x_preferred":[
-        "\u05dc\u05d0\u05e6\u05d9\u05d5"
-    ],
-    "name:hin_x_preferred":[
-        "\u0932\u093e\u0924\u094d\u0938\u093f\u092f\u094b"
-    ],
-    "name:hrv_x_preferred":[
-        "Lacij"
     ],
     "name:hun_x_preferred":[
         "Lazio"
     ],
-    "name:hye_x_preferred":[
-        "\u053c\u0561\u0581\u056b\u0578"
-    ],
     "name:ido_x_preferred":[
         "Lazio"
-    ],
-    "name:ina_x_preferred":[
-        "Latio"
     ],
     "name:ind_x_preferred":[
         "Lazio"
     ],
-    "name:isl_x_preferred":[
-        "Lat\u00edum"
-    ],
     "name:ita_x_preferred":[
         "Lazio"
-    ],
-    "name:jav_x_preferred":[
-        "Latium"
-    ],
-    "name:jpn_x_preferred":[
-        "\u30e9\u30c4\u30a3\u30aa\u5dde"
-    ],
-    "name:kat_x_preferred":[
-        "\u10da\u10d0\u10ea\u10d8\u10dd"
-    ],
-    "name:kaz_x_preferred":[
-        "\u041b\u0430\u0446\u0438\u043e"
-    ],
-    "name:kor_x_preferred":[
-        "\ub77c\uce58\uc624\uc8fc"
     ],
     "name:kur_x_preferred":[
         "Lazio"
     ],
-    "name:lad_x_preferred":[
-        "Lasio"
-    ],
-    "name:lat_x_preferred":[
-        "Latium"
-    ],
-    "name:lav_x_preferred":[
-        "Lacio"
-    ],
     "name:lfn_x_preferred":[
         "Lazio"
     ],
-    "name:lij_x_preferred":[
-        "Lassio"
-    ],
     "name:lim_x_preferred":[
         "Lazio"
-    ],
-    "name:lit_x_preferred":[
-        "Lacijus"
-    ],
-    "name:lmo_x_preferred":[
-        "L\u00e0sio"
-    ],
-    "name:mar_x_preferred":[
-        "\u0932\u093e\u0924\u094d\u0938\u093f\u092f\u094b"
-    ],
-    "name:mkd_x_preferred":[
-        "\u041b\u0430\u0446\u0438\u043e"
-    ],
-    "name:mlt_x_preferred":[
-        "Lazjo"
-    ],
-    "name:mon_x_preferred":[
-        "\u041b\u0430\u0446\u0438\u043e \u043c\u0443\u0436"
-    ],
-    "name:msa_x_preferred":[
-        "Latium"
-    ],
-    "name:mzn_x_preferred":[
-        "\u0644\u0627\u062a\u0632\u06cc\u0648"
-    ],
-    "name:nap_x_preferred":[
-        "Lazzio"
     ],
     "name:nld_x_preferred":[
         "Lazio"
@@ -245,71 +98,20 @@
     "name:nor_x_preferred":[
         "Lazio"
     ],
-    "name:oci_x_preferred":[
-        "Laci"
-    ],
-    "name:oss_x_preferred":[
-        "\u041b\u0430\u0446\u0438\u043e"
-    ],
     "name:pam_x_preferred":[
         "Lazio"
-    ],
-    "name:pan_x_preferred":[
-        "\u0a32\u0a3e\u0a24\u0a38\u0a40\u0a13"
     ],
     "name:pap_x_preferred":[
         "Lazio"
     ],
-    "name:pcd_x_preferred":[
-        "Latium"
-    ],
-    "name:pms_x_preferred":[
-        "Lassio"
-    ],
-    "name:pnb_x_preferred":[
-        "\u0635\u0648\u0628\u06c1 \u0644\u06cc\u0632\u06cc\u0648"
-    ],
-    "name:pol_x_preferred":[
-        "Lacjum"
-    ],
-    "name:por_x_preferred":[
-        "L\u00e1cio"
-    ],
     "name:ron_x_preferred":[
         "Lazio"
-    ],
-    "name:rus_x_preferred":[
-        "\u041b\u0430\u0446\u0438\u043e"
-    ],
-    "name:san_x_preferred":[
-        "\u0932\u0947\u091c\u093f\u0913"
-    ],
-    "name:scn_x_preferred":[
-        "Lazziu"
     ],
     "name:sco_x_preferred":[
         "Lazio"
     ],
     "name:slk_x_preferred":[
         "Lazio"
-    ],
-    "name:slv_x_preferred":[
-        "Lacij"
-    ],
-    "name:sme_x_preferred":[
-        "Latium"
-    ],
-    "name:spa_x_preferred":[
-        "Lacio"
-    ],
-    "name:sqi_x_preferred":[
-        "Lacio"
-    ],
-    "name:srd_x_preferred":[
-        "Latziu"
-    ],
-    "name:srp_x_preferred":[
-        "\u041b\u0430\u0446\u0438\u043e"
     ],
     "name:swa_x_preferred":[
         "Lazio"
@@ -320,20 +122,8 @@
     "name:tgl_x_preferred":[
         "Lazio"
     ],
-    "name:tha_x_preferred":[
-        "\u0e41\u0e04\u0e27\u0e49\u0e19\u0e25\u0e31\u0e15\u0e0b\u0e35\u0e42\u0e22"
-    ],
     "name:tur_x_preferred":[
         "Lazio"
-    ],
-    "name:ukr_x_preferred":[
-        "\u041b\u0430\u0446\u0456\u043e"
-    ],
-    "name:urd_x_preferred":[
-        "\u0644\u0627\u062a\u0632\u06cc\u0648"
-    ],
-    "name:vec_x_preferred":[
-        "\u0141asio"
     ],
     "name:vie_x_preferred":[
         "Lazio"
@@ -343,9 +133,6 @@
     ],
     "name:war_x_preferred":[
         "Lazio"
-    ],
-    "name:zho_x_preferred":[
-        "\u62c9\u9f50\u5965\u5927\u533a"
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
