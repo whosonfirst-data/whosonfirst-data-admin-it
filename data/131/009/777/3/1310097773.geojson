@@ -49,7 +49,7 @@
         "wk:page":"Cabia_%28Arta_Terme%29"
     },
     "wof:country":"IT",
-    "wof:geomhash":"7a865c22f2ff93497c9817627b95868a",
+    "wof:geomhash":"973437d3d8f8cfd092b5967b88170879",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     13.03917,
     46.46722000000001
 ],
-  "geometry": {"coordinates":[13.03917,46.46722000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.03917,46.46722],"type":"Point"}
 }

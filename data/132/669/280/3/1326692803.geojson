@@ -62,7 +62,7 @@
         "wk:page":"Casamaggiore"
     },
     "wof:country":"IT",
-    "wof:geomhash":"dffce88d6a9f3485fc5754b5caf3d0d4",
+    "wof:geomhash":"92416da2129202158df4ac2e16e162f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     11.97075,
     43.10234000000001
 ],
-  "geometry": {"coordinates":[11.97075,43.10234000000001],"type":"Point"}
+  "geometry": {"coordinates":[11.97075,43.10234],"type":"Point"}
 }

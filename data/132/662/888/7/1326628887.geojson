@@ -45,7 +45,7 @@
         "gn:id":8981130
     },
     "wof:country":"IT",
-    "wof:geomhash":"01191f118554e6e12b6cbadcd2da4cfa",
+    "wof:geomhash":"7184319f03a715a47e940f5118fa9b72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,5 +74,5 @@
     11.11387,
     44.79114000000001
 ],
-  "geometry": {"coordinates":[11.11387,44.79114000000001],"type":"Point"}
+  "geometry": {"coordinates":[11.11387,44.79114],"type":"Point"}
 }

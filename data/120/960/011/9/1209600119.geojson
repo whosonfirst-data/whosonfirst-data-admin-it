@@ -57,7 +57,7 @@
         "wk:page":"Marsiglia_%28Davagna%29"
     },
     "wof:country":"IT",
-    "wof:geomhash":"1338b5e6f021bae7b1ce5e67bf64ab8f",
+    "wof:geomhash":"0bd222bad299ba384fc93ab8aa137c3d",
     "wof:hierarchy":[
         {
             "country_id":85633253,
@@ -82,5 +82,5 @@
     9.06461,
     44.46429000000001
 ],
-  "geometry": {"coordinates":[9.06461,44.46429000000001],"type":"Point"}
+  "geometry": {"coordinates":[9.06461,44.46429],"type":"Point"}
 }

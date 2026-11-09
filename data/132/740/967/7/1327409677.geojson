@@ -59,7 +59,7 @@
         "wk:page":"Collemancio"
     },
     "wof:country":"IT",
-    "wof:geomhash":"08ea05b60253ba04b7e12bf8c557cf98",
+    "wof:geomhash":"7445d4476e9da0deec3ebf67c9858111",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     12.52164,
     42.98099000000001
 ],
-  "geometry": {"coordinates":[12.52164,42.98099000000001],"type":"Point"}
+  "geometry": {"coordinates":[12.52164,42.98099],"type":"Point"}
 }

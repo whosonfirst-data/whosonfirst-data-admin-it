@@ -47,7 +47,7 @@
         "wk:page":"Milici"
     },
     "wof:country":"IT",
-    "wof:geomhash":"175aa54f2a60f5d056092fe64edf52d6",
+    "wof:geomhash":"441be57d9d8eab1ac3e254cc500013ec",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,5 +76,5 @@
     15.16877,
     38.08349000000001
 ],
-  "geometry": {"coordinates":[15.16877,38.08349000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.16877,38.08349],"type":"Point"}
 }

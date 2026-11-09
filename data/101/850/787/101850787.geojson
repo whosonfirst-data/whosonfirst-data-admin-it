@@ -229,7 +229,7 @@
         "quattroshapes",
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d3e4b6338a380657845414dd9e7c246e",
+    "wof:geomhash":"5a5da08e4c6aeef53f18306bd874b1bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -258,5 +258,5 @@
     16.0,
     39.46695
 ],
-  "geometry": {"coordinates":[16.0,39.46695],"type":"Point"}
+  "geometry": {"coordinates":[16,39.46695],"type":"Point"}
 }

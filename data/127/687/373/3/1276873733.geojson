@@ -51,7 +51,7 @@
         "wk:page":"Ferdinandea_%28Calabria%29"
     },
     "wof:country":"IT",
-    "wof:geomhash":"9cb4426191822d9788bf51a7e820336c",
+    "wof:geomhash":"47357edf696b3ef10681369385d6960d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     16.38332999999999,
     38.5
 ],
-  "geometry": {"coordinates":[16.38332999999999,38.5],"type":"Point"}
+  "geometry": {"coordinates":[16.38333,38.5],"type":"Point"}
 }

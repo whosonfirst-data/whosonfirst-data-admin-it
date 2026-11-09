@@ -59,7 +59,7 @@
         "wk:page":"Pescina%2C_Seggiano"
     },
     "wof:country":"IT",
-    "wof:geomhash":"2228ae9e95722bbecb197f0e177c20d5",
+    "wof:geomhash":"2cd9fe4448f51a6067621286f00267fe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     11.58731,
     42.92039000000001
 ],
-  "geometry": {"coordinates":[11.58731,42.92039000000001],"type":"Point"}
+  "geometry": {"coordinates":[11.58731,42.92039],"type":"Point"}
 }

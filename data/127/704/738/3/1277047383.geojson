@@ -58,7 +58,7 @@
         "wk:page":"San_Giorgio_a_Colonica"
     },
     "wof:country":"IT",
-    "wof:geomhash":"f647d51980ac9519b729f709dbebaba9",
+    "wof:geomhash":"86d6653a5ed30d24a7b3d07b05434556",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     11.10946,
     43.83329000000001
 ],
-  "geometry": {"coordinates":[11.10946,43.83329000000001],"type":"Point"}
+  "geometry": {"coordinates":[11.10946,43.83329],"type":"Point"}
 }

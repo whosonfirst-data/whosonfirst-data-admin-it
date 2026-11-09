@@ -49,7 +49,7 @@
         "wk:page":"Cesi_%28Serravalle_di_Chienti%29"
     },
     "wof:country":"IT",
-    "wof:geomhash":"75b81e1853e2c2144a05ef34bab13b83",
+    "wof:geomhash":"0dc2acf0e07f6689072e7fcaad1e8b79",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -78,5 +78,5 @@
     12.9,
     43.0
 ],
-  "geometry": {"coordinates":[12.9,43.0],"type":"Point"}
+  "geometry": {"coordinates":[12.9,43],"type":"Point"}
 }

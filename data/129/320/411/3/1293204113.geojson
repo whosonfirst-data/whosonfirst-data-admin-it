@@ -58,7 +58,7 @@
         "wk:page":"Favale"
     },
     "wof:country":"IT",
-    "wof:geomhash":"85c80c820da00c03a1321c6a91cdeee8",
+    "wof:geomhash":"e03a6834d48a3131b5501cd6ca9e8ae7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     13.74137,
     42.79114000000001
 ],
-  "geometry": {"coordinates":[13.74137,42.79114000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.74137,42.79114],"type":"Point"}
 }

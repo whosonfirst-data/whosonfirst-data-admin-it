@@ -41,7 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:country":"IT",
-    "wof:geomhash":"8514787ef827c50e8cc39ab98c9a6f5c",
+    "wof:geomhash":"f524c969403ffdb7c512e603814a4424",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -69,5 +69,5 @@
     10.97130237671525,
     45.39275712712853
 ],
-  "geometry": {"coordinates":[10.97130237671525,45.39275712712853],"type":"Point"}
+  "geometry": {"coordinates":[10.971302,45.392757],"type":"Point"}
 }

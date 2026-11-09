@@ -58,7 +58,7 @@
         "wk:page":"Catabbio"
     },
     "wof:country":"IT",
-    "wof:geomhash":"f191c0a83759d6649f848bf6773268b3",
+    "wof:geomhash":"0a0a66f64cbbfc7daec442ede55cae11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     11.56729,
     42.70144000000001
 ],
-  "geometry": {"coordinates":[11.56729,42.70144000000001],"type":"Point"}
+  "geometry": {"coordinates":[11.56729,42.70144],"type":"Point"}
 }

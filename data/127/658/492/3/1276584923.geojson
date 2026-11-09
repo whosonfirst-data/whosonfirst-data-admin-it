@@ -59,7 +59,7 @@
         "wk:page":"Cardile"
     },
     "wof:country":"IT",
-    "wof:geomhash":"9ed87fa0359f65058d6ea9ebbdd2dfae",
+    "wof:geomhash":"220b934af87f6943f7aade4c36134a3a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     15.24386,
     40.27014000000001
 ],
-  "geometry": {"coordinates":[15.24386,40.27014000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.24386,40.27014],"type":"Point"}
 }

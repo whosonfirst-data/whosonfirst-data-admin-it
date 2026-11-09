@@ -55,7 +55,7 @@
         "wk:page":"Villa_San_Silvestro"
     },
     "wof:country":"IT",
-    "wof:geomhash":"5c2483dba313d08bce60af549ce9908f",
+    "wof:geomhash":"85f56a466f22c88af984be8d737eccc8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     13.05386,
     42.65029000000001
 ],
-  "geometry": {"coordinates":[13.05386,42.65029000000001],"type":"Point"}
+  "geometry": {"coordinates":[13.05386,42.65029],"type":"Point"}
 }

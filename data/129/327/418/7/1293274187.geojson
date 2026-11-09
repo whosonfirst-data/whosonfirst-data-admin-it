@@ -62,7 +62,7 @@
         "wk:page":"Travale"
     },
     "wof:country":"IT",
-    "wof:geomhash":"35372c18058451c1761c4686076d6406",
+    "wof:geomhash":"32cccb16251ced68789c758bf00ed267",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     11.00982,
     43.16719000000001
 ],
-  "geometry": {"coordinates":[11.00982,43.16719000000001],"type":"Point"}
+  "geometry": {"coordinates":[11.00982,43.16719],"type":"Point"}
 }

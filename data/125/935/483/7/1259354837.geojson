@@ -58,7 +58,7 @@
         "wk:page":"Poggio_Murella"
     },
     "wof:country":"IT",
-    "wof:geomhash":"e529d1c781134846d6252accaaa342cd",
+    "wof:geomhash":"9be71ec549f46699ecce48c3002b9b15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     11.54894,
     42.67469000000001
 ],
-  "geometry": {"coordinates":[11.54894,42.67469000000001],"type":"Point"}
+  "geometry": {"coordinates":[11.54894,42.67469],"type":"Point"}
 }

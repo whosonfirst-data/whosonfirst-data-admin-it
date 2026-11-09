@@ -36,7 +36,7 @@
     "wof:concordances":{},
     "wof:country":"IT",
     "wof:created":1491366055,
-    "wof:geomhash":"5cb64083ff83e7bd787969ecf01288fa",
+    "wof:geomhash":"2942e4aaa172887dfb9c29ae9af041ea",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,5 +64,5 @@
     12.35050638737655,
     41.91812364980933
 ],
-  "geometry": {"coordinates":[12.35050638737655,41.91812364980933],"type":"Point"}
+  "geometry": {"coordinates":[12.350506,41.918124],"type":"Point"}
 }

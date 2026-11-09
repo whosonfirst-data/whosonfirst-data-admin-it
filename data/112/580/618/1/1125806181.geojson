@@ -57,7 +57,7 @@
     },
     "wof:country":"IT",
     "wof:created":1497291472,
-    "wof:geomhash":"470f4b306f2e8ac8662624494c977c08",
+    "wof:geomhash":"090312bed61a55b475b4dfed4c5e9cd8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     10.862709,
     46.3229275
 ],
-  "geometry": {"coordinates":[10.862709,46.3229275],"type":"Point"}
+  "geometry": {"coordinates":[10.862709,46.322928],"type":"Point"}
 }
