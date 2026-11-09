@@ -33,7 +33,7 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85685645,
+        1360702181,
         102191581,
         404466905,
         85633253,
@@ -52,7 +52,7 @@
             "localadmin_id":404466905,
             "locality_id":1259862655,
             "macroregion_id":404227535,
-            "region_id":85685645
+            "region_id":1360702181
         }
     ],
     "wof:id":1259862655,

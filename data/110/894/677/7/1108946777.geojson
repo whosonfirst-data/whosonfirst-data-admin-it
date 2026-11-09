@@ -29,7 +29,7 @@
         404461721,
         85633253,
         404227517,
-        101847599,
+        1175612881,
         85685461
     ],
     "wof:breaches":[],
@@ -42,7 +42,7 @@
             "continent_id":102191581,
             "country_id":85633253,
             "localadmin_id":404461721,
-            "locality_id":101847599,
+            "locality_id":1175612881,
             "macroregion_id":404227517,
             "neighbourhood_id":1108946777,
             "region_id":85685461
@@ -51,7 +51,7 @@
     "wof:id":1108946777,
     "wof:lastmodified":1566722224,
     "wof:name":"Giardini di Corcolle",
-    "wof:parent_id":101847599,
+    "wof:parent_id":1175612881,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],

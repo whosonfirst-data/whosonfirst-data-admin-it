@@ -188,7 +188,6 @@
     "woe:name_adm1":"Toscana",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85904651,
         102191581,
         404472769,
         85633253,
@@ -218,7 +217,6 @@
             "localadmin_id":404472769,
             "locality_id":101752643,
             "macroregion_id":404227511,
-            "neighbourhood_id":85904651,
             "region_id":85685407
         }
     ],

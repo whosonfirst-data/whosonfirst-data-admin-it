@@ -58,7 +58,6 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85904753,
         102191581,
         404465097,
         85633253,
@@ -83,7 +82,6 @@
             "localadmin_id":404465097,
             "locality_id":101752555,
             "macroregion_id":404227525,
-            "neighbourhood_id":85904753,
             "region_id":85685487
         }
     ],

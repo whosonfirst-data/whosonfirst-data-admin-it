@@ -46,7 +46,7 @@
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
-        85685633,
+        1360702175,
         102191581,
         404466789,
         85633253,
@@ -65,7 +65,7 @@
             "localadmin_id":404466789,
             "locality_id":1243537735,
             "macroregion_id":404227535,
-            "region_id":85685633
+            "region_id":1360702175
         }
     ],
     "wof:id":1243537735,

@@ -40,7 +40,7 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85685717,
+        1360702181,
         102191581,
         404467355,
         85633253,
@@ -59,7 +59,7 @@
             "localadmin_id":404467355,
             "locality_id":1242660685,
             "macroregion_id":404227535,
-            "region_id":85685717
+            "region_id":1360702181
         }
     ],
     "wof:id":1242660685,

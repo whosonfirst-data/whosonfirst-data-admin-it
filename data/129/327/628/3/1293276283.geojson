@@ -53,9 +53,9 @@
     "wof:belongsto":[
         85682255,
         102191581,
-        404573505,
+        404567855,
         85633051,
-        102062845
+        1394137069
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,8 +67,8 @@
         {
             "continent_id":102191581,
             "country_id":85633051,
-            "county_id":102062845,
-            "localadmin_id":404573505,
+            "county_id":1394137069,
+            "localadmin_id":404567855,
             "locality_id":1293276283,
             "region_id":85682255
         }
@@ -76,7 +76,7 @@
     "wof:id":1293276283,
     "wof:lastmodified":1566721338,
     "wof:name":"Gualdo",
-    "wof:parent_id":404573505,
+    "wof:parent_id":404567855,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-it",
     "wof:superseded_by":[],

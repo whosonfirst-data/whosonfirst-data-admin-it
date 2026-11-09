@@ -41,8 +41,7 @@
         102191581,
         404461779,
         85633253,
-        404227517,
-        101847605
+        404227517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +60,6 @@
             "continent_id":102191581,
             "country_id":85633253,
             "localadmin_id":404461779,
-            "locality_id":101847605,
             "macroregion_id":404227517,
             "region_id":85685461
         }
