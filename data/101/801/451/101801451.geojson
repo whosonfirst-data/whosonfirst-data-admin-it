@@ -216,7 +216,7 @@
     "wof:belongsto":[
         85685565,
         102191581,
-        404464119,
+        404464173,
         85633253,
         404227531
     ],
@@ -234,7 +234,7 @@
         {
             "continent_id":102191581,
             "country_id":85633253,
-            "localadmin_id":404464119,
+            "localadmin_id":404464173,
             "locality_id":101801451,
             "macroregion_id":404227531,
             "region_id":85685565
@@ -244,9 +244,9 @@
     "wof:lang":[
         "ita"
     ],
-    "wof:lastmodified":1690936738,
+    "wof:lastmodified":1794364095,
     "wof:name":"Frascineto",
-    "wof:parent_id":404464119,
+    "wof:parent_id":404464173,
     "wof:placetype":"locality",
     "wof:population":2227,
     "wof:population_rank":4,

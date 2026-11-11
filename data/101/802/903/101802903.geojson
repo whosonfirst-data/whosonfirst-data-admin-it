@@ -227,7 +227,7 @@
     "wof:belongsto":[
         85685691,
         102191581,
-        404464767,
+        404464753,
         85633253,
         404227531
     ],
@@ -246,7 +246,7 @@
         {
             "continent_id":102191581,
             "country_id":85633253,
-            "localadmin_id":404464767,
+            "localadmin_id":404464753,
             "locality_id":101802903,
             "macroregion_id":404227531,
             "region_id":85685691
@@ -256,9 +256,9 @@
     "wof:lang":[
         "ita"
     ],
-    "wof:lastmodified":1690935506,
+    "wof:lastmodified":1794364095,
     "wof:name":"Acquaro",
-    "wof:parent_id":404464767,
+    "wof:parent_id":404464753,
     "wof:placetype":"locality",
     "wof:population":1559,
     "wof:population_rank":3,
