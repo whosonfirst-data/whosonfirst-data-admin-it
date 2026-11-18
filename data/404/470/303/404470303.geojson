@@ -117,12 +117,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Masi"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u9a6c\u897f\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u99ac\u897f\u6cb3"
-    ],
     "qs:a0":"Italy",
     "qs:a1":"PADOVA",
     "qs:a1_lc":"28",
@@ -171,7 +165,7 @@
         }
     ],
     "wof:id":404470303,
-    "wof:lastmodified":1695878662,
+    "wof:lastmodified":1794999722,
     "wof:name":"Masi",
     "wof:parent_id":85685309,
     "wof:placetype":"localadmin",

@@ -107,12 +107,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Masi"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u9a6c\u897f\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u99ac\u897f\u6cb3"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -139,7 +133,7 @@
         }
     ],
     "wof:id":1260087207,
-    "wof:lastmodified":1636496811,
+    "wof:lastmodified":1794999722,
     "wof:name":"Masi",
     "wof:parent_id":404464775,
     "wof:placetype":"locality",

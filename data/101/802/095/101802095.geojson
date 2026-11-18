@@ -180,9 +180,6 @@
     "name:war_x_preferred":[
         "Sava"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u8428\u74e6\u6cb3"
-    ],
     "name:zho_tw_x_preferred":[
         "\u85a9\u74e6"
     ],
@@ -241,7 +238,7 @@
     "wof:lang":[
         "ita"
     ],
-    "wof:lastmodified":1690935531,
+    "wof:lastmodified":1794999722,
     "wof:name":"Sava",
     "wof:parent_id":404456893,
     "wof:placetype":"locality",

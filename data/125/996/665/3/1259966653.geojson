@@ -88,12 +88,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Pit"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u76ae\u7279\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u76ae\u7279\u6cb3"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -120,7 +114,7 @@
         }
     ],
     "wof:id":1259966653,
-    "wof:lastmodified":1636496869,
+    "wof:lastmodified":1794999722,
     "wof:name":"Pit",
     "wof:parent_id":404457241,
     "wof:placetype":"locality",

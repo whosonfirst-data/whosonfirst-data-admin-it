@@ -201,12 +201,6 @@
     "name:war_x_preferred":[
         "Masi"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u9a6c\u897f\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u99ac\u897f\u6cb3"
-    ],
     "qs:a0":"Italia",
     "qs:a1":"*Padova",
     "qs:a1r":"0Veneto",
@@ -271,7 +265,7 @@
     "wof:lang":[
         "ita"
     ],
-    "wof:lastmodified":1706239936,
+    "wof:lastmodified":1794999722,
     "wof:name":"Masi",
     "wof:parent_id":404470303,
     "wof:placetype":"locality",

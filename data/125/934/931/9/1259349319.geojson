@@ -94,12 +94,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Tel"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u6cf0\u5c14\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u7279\u8033\u6cb3"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -126,7 +120,7 @@
         }
     ],
     "wof:id":1259349319,
-    "wof:lastmodified":1636496873,
+    "wof:lastmodified":1794999722,
     "wof:name":"Tel",
     "wof:parent_id":404473183,
     "wof:placetype":"locality",
