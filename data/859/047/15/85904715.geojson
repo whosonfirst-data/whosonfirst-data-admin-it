@@ -11,8 +11,8 @@
     "geom:longitude":11.263727,
     "gn:id":"",
     "iso:country":"IT",
-    "lbl:latitude":43.752279,
-    "lbl:longitude":11.268601,
+    "lbl:latitude":43.758167,
+    "lbl:longitude":11.263729,
     "lbl:max_zoom":18.0,
     "mps:latitude":43.757895,
     "mps:longitude":11.263794,
@@ -63,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl_centroid":"mz",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191581,
         404472769,
